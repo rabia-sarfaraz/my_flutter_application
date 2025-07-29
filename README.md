@@ -1,1 +1,1 @@
-# my_flutter_application.git
+# my_flutter_application
